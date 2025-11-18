@@ -1,0 +1,70 @@
+ody {
+font-family: Arial, sans-serif;
+background: #f0f6ff;
+display: flex;
+justify-content: center;
+padding: 40px;
+}
+.container {
+background: #ffffff;
+padding: 25px;
+width: 360px;
+border-radius: 14px;
+box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+h2 {
+text-align: center;
+margin-bottom: 20px;
+color: #2b4f81;
+}
+input {
+width: 68%;
+padding: 9px;
+font-size: 15px;
+border-radius: 8px;
+border: 1px solid #7a9bb8;
+}
+button {
+padding: 9px 14px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font-size: 14px;
+}
+#addBtn {
+background: #2b7cff;
+color: #fff;
+}
+ul {
+list-style: none;
+padding: 0;
+margin-top: 22px;
+}
+li {
+background: #e8f0ff;
+margin-bottom: 12px;
+padding: 12px;
+border-radius: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.actions button {
+margin-left: 7px;
+padding: 6px 10px;
+border-radius: 6px;
+font-size: 13px;
+}
+.edit {
+background: #ffb300;
+color: #fff;
+}
+.delete {
+background: #e63946;
+color: #fff;
+}
+
+
+
+
+// script.js
